@@ -2,11 +2,11 @@
   "typography": {
     "title": {
       "fontFamily": "fontStack2",
-      "fontWeight": "700",
-      "fontStyle": "italic",
+      "fontWeight": "500",
+      "fontStyle": "normal",
       "fontSize": "1.5rem",
       "lineHeight": 1.25,
-      "color": "#001ca8",
+      "color": "#005e75",
       "marginTop": "0rem",
       "marginBottom": "0.25rem"
     },
